@@ -11,6 +11,11 @@
 
 **本脚本不能补签**
 
+# 交流社区 
+
+#### Telegram
+[![Telegram-group](https://img.shields.io/badge/Telegram-群组-blue)](https://t.me/+zTrZ4ekP4pljNjI9)
+
 # 消息推送
 为了简化代码，关闭了其他的消息推送
 
