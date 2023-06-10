@@ -16,6 +16,8 @@
 #### Telegram
 [![Telegram-group](https://img.shields.io/badge/Telegram-群组-blue)](https://t.me/+zTrZ4ekP4pljNjI9)
 
+![Alt](https://repobeats.axiom.co/api/embed/886a72519e5e1704b212eb43b8b6aa800e952ce7.svg "Repobeats analytics image")
+
 # 消息推送
 为了简化代码，关闭了其他的消息推送
 
