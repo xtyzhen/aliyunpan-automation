@@ -16,7 +16,7 @@
 ### Telegram
 [![Telegram-group](https://img.shields.io/badge/Telegram-群组-blue)](https://t.me/+zTrZ4ekP4pljNjI9)
 
-#### 友情链接
+### 友情链接
 [![Telegram-group](https://img.shields.io/badge/小白羊网盘-群组-blue)](https://t.me/+zTrZ4ekP4pljNjI9)
 
 ![Alt](https://repobeats.axiom.co/api/embed/886a72519e5e1704b212eb43b8b6aa800e952ce7.svg "Repobeats analytics image")
